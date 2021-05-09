@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+}
+
+div {
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+    left: auto;
+    text-align: center;
+    margin: auto;
+}
