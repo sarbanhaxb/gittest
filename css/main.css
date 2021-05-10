@@ -1,13 +1,14 @@
 body {
     background-color: cadetblue;
-    height: 4000px;
+    height: 2000px;
 }
 
 div {
     background-color: bisque;
     width: 300px;
     height: 300px;
-    left: auto;
-    text-align: center;
-    margin: auto;
+    padding: 20px;
+    border-radius: 10%;
+    border-style: solid 55px black;
+    margin: 40px;
 }
